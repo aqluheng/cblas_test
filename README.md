@@ -1,7 +1,10 @@
 ## 仅适用于LINUX环境
-- 主要参考https://blog.csdn.net/liuheng0111/article/details/52490923,感谢大佬
+- 主要参考 https://blog.csdn.net/liuheng0111/article/details/52490923
+- 感谢大佬
 - 文件内容
-  - sourceTar 里面包含了我从http://www.netlib.org/blas/下载下的blas和cblas的源码压缩包
+  - sourceTar 里面包含了我下载下的blas和cblas的源码压缩包,这个是官网的位置
+  - http://www.netlib.org/blas/
+  - 下载下的blas和cblas的源码压缩包
   - cblas.h && cblas_f77.h 使用cblas所需的头文件
   - cblas_LINUX.a 编译好的cblas静态链接库文件
   - blas_LINUX.a  编译好的blas静态链接库文件
